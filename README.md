@@ -29,7 +29,16 @@ Welcome to the **alx-backend-javascript** for the specialisation. This repo is d
 
 ## Projects
 
-- **0x00-ES6_basic**: This project deals with.
+- **0x00-ES6_basic**: This project deals with;
+  - What ES6 is
+  - New features introduced in ES6
+  - The difference between a constant and a variable
+  - Block-scoped variables
+  - Arrow functions and function parameters default to them
+  - Rest and spread function parameters
+  - String templating in ES6
+  - Object creation and their properties in ES6
+  - Iterators and for-of loops
 
 ## Running the Programs in repo
 
@@ -58,14 +67,14 @@ To run the projects in this repo:
 
 ## 🤝 Feedback and Contributions
 
-We've made every effort to implement all the main aspects of the app in the best possible way. However, the development journey doesn't end here, and your input is crucial for our continuous improvement.
+We've made every effort to implement all the main aspects of the app in the best possible way in every projects. However, the development journey doesn't end here, and your input is crucial for our continuous improvement.
 
 > [!IMPORTANT]
-> Whether you have feedback on features, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make this app more robust and user-friendly.
+> Whether you have feedback on the projects, have encountered any bugs, or have suggestions for enhancements, we're eager to hear from you. Your insights help us make these projects more robust and user-friendly.
 
 Please feel free to contribute by [submitting an issue](https://github.com/Gideon-Phiri/alx-backend-javascript.git/issues). Each contribution helps us grow and improve.
 
-We appreciate your support and look forward to making our product even better with your help!
+We appreciate your support and look forward to making our projects even better with your help!
 
 ## 📃 License
 
