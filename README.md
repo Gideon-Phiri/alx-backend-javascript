@@ -54,7 +54,7 @@ To run the projects in this repo:
    Clone the repository
 
    ```sh
-   git clone https://github.com/Gideon-Phiri/Java-programming_projects.git
+   git clone https://github.com/Gideon-Phiri/alx-backend-javascript.git
    ```
 
    Navigate to the project directory of your choice
