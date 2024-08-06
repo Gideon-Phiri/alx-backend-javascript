@@ -1,15 +1,16 @@
+// taskFirst function using const
 export function taskFirst() {
-  // Uses const
   const task = "I prefer const when I can.";
   return task;
 }
 
+// getLast function remains the same
 export function getLast() {
   return " is okay";
 }
 
+// taskNext function using let
 export function taskNext() {
-  // Uses let
   let combination = "But sometimes let";
   combination += getLast();
 
