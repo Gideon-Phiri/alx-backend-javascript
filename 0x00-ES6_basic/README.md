@@ -17,8 +17,10 @@
 12. [10. For...of Loops](#10-forof-loops-10-loopsjs)
 13. [11. Iterator](#11-iterator-11-createemployeesobjectjs)
 14. [12. Let's create a report object](#12-lets-create-a-report-object-12-createreportobjectjs)
-15. [Running the Programs](#running-the-programs)
-16. [Author](#author)
+15. [13. Iterating through report objects](#13-iterating-through-report-objects-100-createiteratorobjectjs)
+16. [14. Iterate through object](#14-iterate-through-object-101-iteratethroughobjectjs)
+17. [Running the Programs](#running-the-programs)
+18. [Author](#author)
 
 ## Overview
 
@@ -101,6 +103,8 @@ ES6, also known as ECMAScript 2015, is the sixth version of the JavaScript progr
 ## 13. Iterating through report objects (`100-createIteratorObject.js`)
 
 - a function named `createIteratorObject`, that will take into argument a report Object created with the previous function `createReportObject`.
+
+## 14. Iterate through object (`101-iterateThroughObject.js`)
 
 ## Running the Programs
 
