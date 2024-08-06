@@ -98,43 +98,52 @@ ES6, also known as ECMAScript 2015, is the sixth version of the JavaScript progr
 
 - The method property receives `employeesList` and returns the number of departments. I would suggest suggest thinking back to the ES6 method property syntax
 
+## 13. Iterating through report objects (`100-createIteratorObject.js`)
+
+- a function named `createIteratorObject`, that will take into argument a report Object created with the previous function `createReportObject`.
+
 ## Running the Programs
 
 To run the tasks projects in this directory:
 
-    Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
-    Ensure `Git` is installed
+Open a terminal (Command Prompt or PowerShell for Windows, Terminal for macOS or Linux)
+Ensure `Git` is installed
 
-    Visit [https://git-scm.com](https://git-scm.com) to download and install `console Git` if not already installed
+Visit [https://git-scm.com](https://git-scm.com) to download and install `console Git` if not already installed
 
-    Install NodeJS 12.11.x
-    ```sh
+Install NodeJS 12.11.x
+
+```sh
     curl -sL https://deb.nodesource.com/setup_12.x -o nodesource_setup.sh
     sudo bash nodesource_setup.sh
     sudo apt install nodejs -y
-    ```
-    Clone the repository
+```
 
-    ```sh
+Clone the repository
+
+```sh
     git clone https://github.com/Gideon-Phiri/alx-backend-javascript.git
-    ```
+```
 
-    Navigate to the project directory of your choice
+Navigate to the project directory of your choice
 
-    ```sh
+```sh
     cd 0x00-ES6_basic
-    ```
+```
 
-    run `npm install` from the terminal of your project folder to install all necessary project dependencies.
+run `npm install` from the terminal of your project folder to install all necessary project dependencies.
 
-    ```sh
+```sh
     npm install
-    ```
-    use the provided main.js files to execute the programs or create your one
-     ```sh
+```
+
+use the provided main.js files to execute the programs or create your one
+
+```sh
     npm run dev 1-main.js
-    ```
-    to execute `1-block-scoped.js`
+```
+
+to execute `1-block-scoped.js`
 
 ## Author
 
